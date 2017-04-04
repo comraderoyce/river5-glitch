@@ -1,0 +1,2 @@
+http://feeds.feedblitz.com/SethsBlog
+http://scripting.com/rss.xml

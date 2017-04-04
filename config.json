@@ -1,0 +1,29 @@
+{
+	"maxRiverItems": 300,
+  "ctMinutesBetwBuilds": 1,
+  "httpPort": 3000,
+	"homePage": { 
+		"panels": [
+			{
+				"title": "Finances",
+				"river": "finances.js"
+				},
+			{
+				"title": "Science",
+				"river": "science.js"
+				},
+			{
+				"title": "Hacker News",
+				"river": "hn.js"
+				},
+      {
+				"title": "Others",
+				"river": "myTxtFeeds.txt"
+				},
+      {
+				"title": "Reuters",
+				"river": "reuters.txt"
+				}
+			]
+		}
+	}
