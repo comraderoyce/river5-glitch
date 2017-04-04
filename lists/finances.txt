@@ -1,0 +1,4 @@
+http://www.ft.com/rss/home/europe
+http://www.ft.com/rss/world
+http://www.ft.com/rss/home/us
+http://ftalphaville.ft.com/blog/feed/
